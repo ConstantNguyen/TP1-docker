@@ -1,0 +1,12 @@
+# Données Postgres persistées
+database/data/
+
+# Fichiers compilés Java
+*.class
+
+# Fichiers Maven
+target/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
